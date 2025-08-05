@@ -6,7 +6,7 @@ import requests
 from datetime import datetime
 
 # -------------------- API Setup --------------------
-# API_KEY = "bc87829e1d2d4ee68dcbb775c90b598a"
+API_KEY = "bc87829e1d2d4ee68dcbb775c90b598a"
 VALUE_URL = "https://api.rentcast.io/v1/avm/value"
 HEADERS = {"X-Api-Key": API_KEY}
 
